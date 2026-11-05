@@ -1,17 +1,42 @@
-# chat_app
+# 🎓 Scholar Chat App
 
-A new Flutter project.
+A real-time chat application built with **Flutter** and **Firebase**, utilizing **Flutter Cubit** for state management and **Cloud Firestore** for instant message synchronization.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
+- **User Authentication:** Secure sign-up, sign-in, and email verification powered by Firebase Auth.
+- **Real-Time Messaging:** Instant messaging powered by Cloud Firestore streams.
+- **Dynamic UI/UX:** Custom chat bubbles with automatic `isMe` sender identification and responsive layout.
+- **Clean State Management:** Decoupled business logic from UI using Flutter BLoC (Cubit).
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Tech Stack
+- **Framework:** Flutter (Dart)
+- **State Management:** Flutter Bloc / Cubit
+- **Backend & Database:** Firebase Auth & Cloud Firestore
+- **UI Components:** Custom Widgets, ModalProgressHUD
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 App Screenshots
+
+| Login Screen | Register Screen | Chat Screen |
+| :---: | :---: | :---: |
+| ![Login](<img width="329" height="703" alt="image" src="https://github.com/user-attachments/assets/97d60f9d-ef9c-4f47-9934-45d5fc519108" />
+) | ![Register](<img width="321" height="702" alt="image" src="https://github.com/user-attachments/assets/5f509a0b-244e-4a4a-9d4b-b9f4daa4995d" />
+) |  ![Email Verification](screenshots/chat.png) 
+| ![Chat](<img width="329" height="706" alt="image" src="https://github.com/user-attachments/assets/811649d1-362d-46ef-826c-7fa2bfb539c8" />
+) |  ![Email Verification](<img width="323" height="701" alt="image" src="https://github.com/user-attachments/assets/0ea26bf3-418a-44f4-a22a-a81fce38624e" />
+) 
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally, make sure you have Flutter installed and your Firebase configured (`firebase_options.dart`).
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/FayzaAhmedE/chat_app.git
