@@ -20,16 +20,11 @@ A real-time chat application built with **Flutter** and **Firebase**, utilizing 
 
 ---
 
-## 📸 App Screenshots
+## 📱 App Screenshots
 
-| Login Screen | Register Screen | Chat Screen |
-| :---: | :---: | :---: |
-| ![Login](<img width="329" height="703" alt="image" src="https://github.com/user-attachments/assets/97d60f9d-ef9c-4f47-9934-45d5fc519108" />
-) | ![Register](<img width="321" height="702" alt="image" src="https://github.com/user-attachments/assets/5f509a0b-244e-4a4a-9d4b-b9f4daa4995d" />
-) |  ![Email Verification](screenshots/chat.png) 
-| ![Chat](<img width="329" height="706" alt="image" src="https://github.com/user-attachments/assets/811649d1-362d-46ef-826c-7fa2bfb539c8" />
-) |  ![Email Verification](<img width="323" height="701" alt="image" src="https://github.com/user-attachments/assets/0ea26bf3-418a-44f4-a22a-a81fce38624e" />
-) 
+| Login Screen | Register Screen | Email Verification | Chat Screen |
+| :---: | :---: | :---: | :---: |
+| ![Login](https://github.com/user-attachments/assets/97d60f9d-ef9c-4f47-9934-45d5fc519108) | ![Register](https://github.com/user-attachments/assets/5f509a0b-244e-4a4a-9d4b-b9f4daa4995d) | ![Verification](https://github.com/user-attachments/assets/0ea26bf3-418a-44f4-a22a-a81fce38624e) | ![Chat](https://github.com/user-attachments/assets/811649d1-362-46ef-826c-7fa2bfb539c8) |
 
 ---
 
