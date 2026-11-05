@@ -24,7 +24,7 @@ A real-time chat application built with **Flutter** and **Firebase**, utilizing 
 
 | Login Screen | Register Screen | Email Verification | Chat Screen |
 | :---: | :---: | :---: | :---: |
-| ![Login](https://github.com/user-attachments/assets/97d60f9d-ef9c-4f47-9934-45d5fc519108) | ![Register](https://github.com/user-attachments/assets/5f509a0b-244e-4a4a-9d4b-b9f4daa4995d) | ![Verification](https://github.com/user-attachments/assets/0ea26bf3-418a-44f4-a22a-a81fce38624e) | ![Chat](https://github.com/user-attachments/assets/811649d1-362-46ef-826c-7fa2bfb539c8) |
+| <img src="https://github.com/user-attachments/assets/97d60f9d-ef9c-4f47-9934-45d5fc519108" width="200"/> | <img src="https://github.com/user-attachments/assets/5f509a0b-244e-4a4a-9d4b-b9f4daa4995d" width="200"/> | <img src="https://github.com/user-attachments/assets/0ea26bf3-418a-44f4-a22a-a81fce38624e" width="200"/> | <img src="https://github.com/user-attachments/assets/811649d1-362d-46ef-826c-7fa2bfb539c8" width="200"/> |
 
 ---
 
